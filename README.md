@@ -17,7 +17,7 @@ To know which brands need more marketing
 # Online/Real-Time Processing
 The real-time processing would involve detecting DDoS and bot attacks using AWS Lambda, Amazon DynamoDB, Amazon CloudWatch, and AWS SNS.
 
-This is the first part of the blog series, where we will focus only on the online/real-time processing data pipeline. In the second part of the blog series, we will dive into batch processing.
+<br>
 
 
 ![alt text](aws-project.png?raw=true)<br>
